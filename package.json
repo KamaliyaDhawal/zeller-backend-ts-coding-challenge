@@ -1,0 +1,12 @@
+{
+  "name": "zeller-backend-ts-coding-challenge",
+  "version": "1.0.0",
+  "description": "This project implements a simple checkout system for a computer store. It calculates the total price based on scanned items and applies pricing rules.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "checkout": "ts-node src/app.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
